@@ -1,0 +1,116 @@
+Spring 2016
+Intro to 3D Modeling & Animation
+Robert N Bowen                                       ATLS 3519-030/031                                          T/TH 500P-650P
+Lectures
+We will be covering a lot of topics in 3D animation at a depth that makes it possible in a single semester. The bare necessities of an animation will be taught and required of each student or team in completing the final project, a 6-second video (basically, a Vine) visually expressing an idea or emotion. Modeling and animation tracks will run simultaneously in the class, Modeling taking place on Tuesdays and Animation on Thursdays. Each lecture will break down into practicable elements, so we can be sure everyone has a feel for each element of the interface being covered that day.
+Assignments
+ Granular weekly projects will be due one week from the day they're assigned, and graded as pass/fail. Any late or incomplete assignment from this category will be considered on time if you can help another student with their own weekly project (that student will simply have to mention your help when turning their own work in). Sometimes Maya is a maze, and while you should always get your work done on time if possible, incomplete or late projects may be an inevitability for some, and I don't want anyone to get too stressed out about being unable to get the tools to work as expected.
+There will be one short mid-term written exam on March 1st at the start of class. It should be uncharacteristically easy for any student who's completed all of their homework. There are a few terms and concepts that everyone working in 3D must know, and those terms and concepts will appear on the exam.
+The midterm project will be made up of two elements:
+First: A simple animation covering most or all of the animation/modeling/etc. concepts covered up to that point. More details to follow when the project approaches.
+Second: A storyboard or script for your final. The 3 most important rules for most film and animation projects are "Pre-production, Pre-production, and Pre-production." Planning ahead will give you a much needed understanding of the scope of your project, and how to get each element completed without running afoul of deadlines. We're simply going to build that into the process, as it's a major *major* part of making an animation.
+Both midterm projects are due on March 8th, and will lose a quarter of their maximum grade value per class day they are late. We'll be working on these as we go, getting feedback as we go, so getting them in on time shouldn't be a problem. If you're not going to be done by the end of class that day, e-mail them to me before midnight March 8th for full credit (and then do everything outlined for missing class in the attendance policy, which appears later in the document).
+
+Grading policies: The granular assignments will make up 25% of your final grade. They're super important, pretty doable, and getting them done will make your life so much easier in the long run. The two elements of the mid-term will make up a total of 25% (12.5% each) of your final grade. The short test will be 10%. The Final will be 40% of your final grade.
+The technical elements of each project will be easy to see if it's working, but for the final your grade may seem more subjective. Understanding my criteria will make it easier to understand your grade. Here is how I will grade the finals: Your final will have four elements to its grade:
+	•	Scope. This is how much work I estimate you put in to complete the final. Too little work isn't ideal, but too much might keep you from doing a well polished animation. 
+	•	Use of your Plan: Only small and organic, or necessary changes should be made to your animation between when you planned it and when you're finished. Exceptions may be made for issues relating to too large or too small a scope.
+	•	Technical execution: Did every mesh, rig, light, and camera in the animation work as intended?
+	•	Effective Communication: If it was a joke, was it funny? If it was a character suffering, was it sad? If it was horror, was it scary? If it was a model of the universe, did we understand the science? This is going to be the hardest part of the final, but it will also be the part that teaches us the most, and the most satisfying to get right!
+More details about the final will be provided in time to start the planning phase of your project.
+If you come to class consistently, engage with your peers, are excited about what you can do, and then do it, you probably won't need to take a second look at the grading section. If you're wondering about anything though, let me know!  Plagiarism: Misrepresenting another's work as your own is not tolerated. This can get fuzzy in 3D animation, as much of what you do will be inspired by another piece of art, a book you read, a movie you saw, or a piece of concept art you really liked. We will talk briefly about "fair use", but in the interest of helping fellow students understand each other's process, attributions must be provided even for elements that fall under "fair use". In the event that a student presents a plagiarized project (a project that was authored in large part or in whole by someone else without attribution), that project will receive an "F" grade and the plagiarism will be reported to the Dean. For further information on how plagiarism is handled, see the "Honor Code" section found under "University Policies". Plagiarism is likely to be as easy to spot as it is to hard to commit in this particular class, so I don't expect to encounter it.
+
+Topic Schedule
+Everything in here is subject to change, depending on how quickly we make it through different parts of the interface
+Week 1-4 Basics of interface/creating objects/deformers
+Simple animation/hierarchies/bouncing ball test
+Polygon Modeling/how and why we model in quads
+Simple Rigging  Week 5-8: Materials/Textures and UVs.
+Lighting
+Joints/ IK controllers/ rotation constraints
+Cameras and the Mental Ray renderer.
+Week 9-16: Concept/Term review for short test.
+Start serious work on Final project.
+Fill in requests for special topics needed for individual final projects. Most of this can be done by fellow students who have researched the topic as a later granular weekly assignment.
+Finals week: Depending on the speed of the class, we may have a very easy final week. If everyone can turn in their final project before finals week, everyone will have a little more time to focus on polishing their work. Staying organized and meeting deadlines could make the end of the semester slightly more relaxed.
+Students may fill in this table with their granular assignments, so each can keep track of the work they've completed. To add a line to it, go to the last field on the last line and hit "tab".
+TASK
+DUE DATE
+DONE
+INITIALS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Class Policies
+Office Hours: As an adjunct, I do not have an office on main campus. Luckily, I've been working in lip sync animation research for the Institute of Cognitive Science at their secondary campus called CINC. If you need to meet with me, send an e-mail and we will try to arrange a time for you to drop into my office across town (which can be easily reached from the main campus by bus). For shorter questions, I can be reached by e-mail, and will usually respond within 24 hours, except on weekends.
+Attendance policy: If you come to class consistently, you can expect to have a great fluency with all the basics of Maya. Miss too much class, and you'll simply be lost. Ultimately, working in 3D isn't hard, but it definitely requires focus and patience. As such, missing more than 6 scheduled classes will result in an automatic letter grade drop (missing 12 scheduled classes will result in failure). Regardless of how many classes you miss, each class you miss you must get with another student to pick up what you missed in class. For any religious holiday that doesn't excuse all of the university, just inform me in the first two weeks of class (if it's during the first two weeks, tell me now), and I'll put together a learning pack for whatever you've missed, and will be available as stated above to answer questions (unless you find learning from another student more convenient). The same applies if you have a major medical issue, except in the case of 3 consecutive absences you'll have to provide some form of medical paperwork to excuse the absence. Religious observances and excused medical absences (absences with a doctor's note) will not count as an absence that can effect your grade assuming you have adhered to these policies. If you're just run of the mill sick, don't come to class, and don't put yourself in a position where if you get sick near the end of the semester it might effect your grade. I don't want you to get me sick and no one else in class wants that either, so plan accordingly. Should the holiday or medical absence fall on the day of the short exam, you'll just take the exam outside of class at our next earliest convenience.
+UNIVERSITY POLICIES:
+For Students with disabilities: If you qualify for accommodations because of a disability, please submit to your professor a letter from Disability Services in a timely manner (for exam accommodations provide your letter at least one week prior to the exam) so that your needs can be addressed. Disability Services determines accommodations based on documented disabilities. Contact Disability Services at 303-492-8671 or by e-mail at dsinfo@colorado.edu. If you have a temporary medical condition or injury, see Temporary Injuries guidelines under the Quick Links at the Disability Services website and discuss your needs with your professor.
+For Religious Observances: Campus policy regarding religious observances requires that faculty make every effort to deal reasonably and fairly with all students who, because of religious obligations, have conflicts with scheduled exams, assignments or required attendance. See campus policy regarding religious observances for full details.
+Classroom Conduct: Students and faculty each have responsibility for maintaining an appropriate learning environment. Those who fail to adhere to such behavioral standards may be subject to discipline. Professional courtesy and sensitivity are especially important with respect to individuals and topics dealing with differences of race, color, culture, religion, creed, politics, veteran’s status, sexual orientation, gender, gender identity and gender expression, age, disability, and nationalities. Class rosters are provided to the instructor with the student's legal name. I will gladly honor your request to address you by an alternate name or gender pronoun. Please advise me of this preference early in the semester so that I may make appropriate changes to my records. For more information, see the policies on classroom behavior and the student code.
+Discrimination and Harassment: The University of Colorado Boulder (CU-Boulder) is committed to maintaining a positive learning, working, and living environment. CU-Boulder will not tolerate acts of sexual misconduct, discrimination, harassment or related retaliation against or by any employee or student. CU’s Sexual Misconduct Policy prohibits sexual assault, sexual exploitation, sexual harassment, intimate partner abuse (dating or domestic violence), stalking or related retaliation. CU-Boulder’s Discrimination and Harassment Policy prohibits discrimination, harassment or related retaliation based on race, color, national origin, sex, pregnancy, age, disability, creed, religion, sexual orientation, gender identity, gender expression, veteran status, political affiliation or political philosophy. Individuals who believe they have been subject to misconduct under either policy should contact the Office of Institutional Equity and Compliance (OIEC) at 303-492-2127. Information about the OIEC, the above referenced policies, and the campus resources available to assist individuals regarding sexual misconduct, discrimination, harassment or related retaliation can be found at the OIEC website.
+Honor Code: All students enrolled in a University of Colorado Boulder course are responsible for knowing and adhering to the academic integrity policy of the institution. Violations of the policy may include: plagiarism, cheating, fabrication, lying, bribery, threat, unauthorized access, clicker fraud, resubmission, and aiding academic dishonesty. All incidents of academic misconduct will be reported to the Honor Code Council (honor@colorado.edu; 303-735-2273). Students who are found responsible of violating the academic integrity policy will be subject to nonacademic sanctions from the Honor Code Council as well as academic sanctions from the faculty member. Additional information regarding the academic integrity policy can be found at http://honorcode.colorado.edu.
+
+
+ Extra Credit!!!
+You can absolutely earn extra credit in the class. Here's how to earn an extra 5% on your grade a maximum of twice per term. You may do one of the following (no more than two extra credit assignments total):
+	•	Watch a movie, play a game, or find another example of CG that you don't initially understand. Do enough research to quickly and succinctly explain how you think it was done, especially including the pre-production phase. What tests do you think they ran to make sure it would work? Do you think the execution was more unusually labor intensive for the artist or the CPU? Do you think it would be exciting work, or did it become repetitive drudgery for the artist(s)? After thinking about this, do you wish you had been in a position to work on it? This should be no more than two pages clear, spell checked, grammatically correct writing. Simple, descriptive, and clear drawings may accompany if it's easier to explain portions of the process visually.
+	•	Watch a movie, play a game, or find another example of CG that you are inspired by, and track down the artist responsible for it. This may be easier than you initially expect. If it's a WETA movie (for example), e-mail info@wetaworkshop.co.nz and see if they'll let you interview the one of the artists who worked on the shot (better yet, identify the part you liked best, and see if they'll put you in contact with that artist). Be prepared to be rejected, you may have to send a few requests before you get a response. Ask at least equal parts technical and personal questions (they'll probably hate the technical questions, as it's my job to teach you most of those). Let them know you admire the work they've done. Computer artists can be sometimes be a little hermetic, but most artists thrive on positive feedback. Again, no more than two pages of clear, spell checked, grammatically correct writing.
