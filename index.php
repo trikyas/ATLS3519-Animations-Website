@@ -75,7 +75,7 @@
         <div class="header-content">
             <div class="header-content-inner">
                 <h1>ATLS 3519 Intro to Animations</h1>
-                <h2>Spring 2016<h2>
+                <h2>Spring 2016</h2>
                 <hr>
                 <p>
                 T/TH 5:00PM-6:50PM <br>ATLS 3519-030/031 <br>Robert N. Bowen 
@@ -124,6 +124,50 @@
 <!-- INCLUDE THE SCHEDULE HERE -->
 <!-- INCLUDE THE SCHEDULE HERE -->
 <!-- INCLUDE THE SCHEDULE HERE -->
+        <table class="schedule-table table">
+                <tbody>
+                <?php
+                        $schedule = fopen("schedule.txt", "r") or die("Unable to display schedule");
+                        if($schedule){
+                                $setCount = 0;
+                                while (($line = fgets($schedule)) !== false) {
+                                        if($setCount == 7){
+                                                $setCount = 0;
+                                        }
+                                        else{
+                                                $setCount += 1;
+			
+                                                if($setCount == 1){
+							echo("<tr>\r\n\r\n");
+							echo("<td>");
+							echo($line);
+							echo("</td>\r\n");	
+							echo("</tr>\r\n");
+						}
+						else if($setCount == 2 || $setCount == 5){
+							$videoLink = $line;
+							$line=fgets($schedule);
+							echo("<tr>\r\n");
+							echo("<td><a href=\"");
+							echo($videoLink);
+							echo("\">");
+							echo($line);
+							echo("</a></td>\r\n");
+							$setCount += 1;
+						}
+						else{
+							echo("<td>");
+                                                        echo($line);
+                                                        echo("</td>\r\n");
+							echo("</tr>\r\n");
+						}
+                                        }
+                                }
+                                fclose($schedule);
+                        }
+                ?>
+                </tbody>
+        </table>
             </div>
         </div>
     </section>
@@ -137,7 +181,7 @@
         <div class="container text-center">
             <div class="call-to-action">
                 <h2>Syllabus</h2>
-                <a href="#" class="btn btn-default btn-xl">Download</a>
+                <a href="Syllabus.txt" class="btn btn-default btn-xl" download>Download</a>
             </div>
         </div>
     </aside>
@@ -164,7 +208,7 @@
     <footer>
         <div class="footer-content">
             <div class="footer-content-inner">
-                <p>Created by Michael V. Swisher</p>
+                <p>Created: 2016</p>
             </div>
         </div>
     </footer>
